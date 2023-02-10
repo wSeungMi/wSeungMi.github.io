@@ -13,7 +13,7 @@ module.exports = {
   author: {
     name: `우승미`,
     bio: {
-      role: `✨`,
+      role: `FE 개발자`,
       description: ['능동적으로 일하는', '기록을 열심히하는', '조직의 화합을 중시하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
