@@ -1,5 +1,5 @@
 module.exports = {
-  title: `SEUNGMI.DEV`,
+  title: `SEUNGMI.FE`,
   description: `오늘도 디벨롭`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://www.seungmidev.com`,
@@ -14,7 +14,7 @@ module.exports = {
     name: `우승미`,
     bio: {
       role: `✨`,
-      description: ['프론트엔드 개발자', '프론트엔드 개발자', '프론트엔드 개발자'],
+      description: ['능동적으로 일하는', '기록을 열심히하는', '조직의 화합을 중시하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
