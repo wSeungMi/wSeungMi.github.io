@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `wSeungMi/wSeungMi.github.io`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
@@ -14,7 +14,7 @@ module.exports = {
     name: `우승미`,
     bio: {
       role: `FE 개발자`,
-      description: ['능동적으로 일하는', '기록을 열심히하는', '조직의 화합을 중시하는'],
+      description: ['능동적으로 일하는', '기록을 중시하는', '탄탄한 기본기를 목표로하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
