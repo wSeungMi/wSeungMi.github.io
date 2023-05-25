@@ -59,7 +59,7 @@ categories: 트러블슈팅
 </figure>
 
 button으로 type을 명시하게되면, 이벤트가 없는 순수 **버튼**의 기능을 하게된다.  
-form 내에서 사용할 경우 반드시 type을 명시해주는 것이 좋으며, type이 button이어야 JS로 click 이벤트를 걸 수 있다.
+form 내에서 버튼을 사용할 경우, `submit`을 실행하는 버튼이 아니라면 type을 명시해주는 것이 좋다.
 
 ```toc
 
