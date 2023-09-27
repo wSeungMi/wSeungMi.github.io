@@ -19,6 +19,7 @@ function Bio({ author, language = 'ko' }) {
             {bio.role} <strong>{name}</strong>입니다.
             <br /> */}
             <strong>오늘도 디벨롭😎✨</strong>
+            <p>🚧 블로그 공사중 (노션 기록 → 블로그) </p>
           </p>
           <div className="social-links">
             <IconButtonBar links={social} />
